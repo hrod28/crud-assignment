@@ -5,4 +5,5 @@ module.exports = {
     client: 'pg',
     connection: 'postgres://localhost/contact_dev'
   }
+
 };
